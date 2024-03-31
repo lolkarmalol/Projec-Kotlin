@@ -28,16 +28,16 @@
 
 
 * Declaración de variables con "var" y "val":  [[uso]](/1_declaracion_variables/1_declaracion_variables_val_var.md)
-[[enunciados]](/1_declaracion_variables/1_enunciados/1_declaracion_variables_val_var.md) [[mis soluciones]](/soluciones/1_declaracion_variables/1_declaracion_variables_val_var.md)
-* Asignación de valores a variables: [[uso]](/1_declaracion_variables/2_asignacion_variables.md) [[enunciados]](/1_declaracion_variables/1_enunciados/1_declaracion_variables_val_var.md) [[mis soluciones]](/soluciones/1_declaracion_variables/2_asignacion_variables.md)
-* Inicialización de variables: [[uso]](/1_declaracion_variables/3_inicializacion_variables.md) [[enunciados]](/1_declaracion_variables/1_enunciados/3_inicializacion_variables.md) [[mis soluciones]](/soluciones/1_declaracion_variables/3_inicializacion_variables.md)
-* Tipos de datos (enteros, flotantes, booleanos, cadenas, etc.)[[uso]](/1_declaracion_variables/4_tipos_de_datos.md) [[enunciados]](/1_declaracion_variables/1_enunciados/4_tipos_de_datos.md) [[mis soluciones]](/soluciones/1_declaracion_variables/4_tipos_de_datos.md)
-* Conversión de tipos de datos (toInt(), toDouble(), etc.): [[uso]](/1_declaracion_variables/5_conversion_tipos.md) [[enunciados]](/1_declaracion_variables/1_enunciados/5_conversion_tipos.md) [[mis soluciones]](/soluciones/1_declaracion_variables/5_conversion_tipos.md)
-* Operadores: [[uso]](/1_declaracion_variables/6_operadores.md) [[enunciados]](/1_declaracion_variables/1_enunciados/6_operadores.md) [[mis soluciones]](/soluciones/1_declaracion_variables/6_operadores.md)
-* Concatenación de cadenas (con "+" y con "$") [[uso]](/1_declaracion_variables/7_concatenacion.md) [[enunciados]](/1_declaracion_variables/1_enunciados/7_concatenacion.md) [[mis soluciones]](/soluciones/1_declaracion_variables/7_concatenacion.md)
-* Interpolación de cadenas (con "\${ }" y con "$"): [[uso]](/1_declaracion_variables/8_interpolacion.md) [[enunciados]](/1_declaracion_variables/1_enunciados/8_interpolacion.md) [[mis soluciones]](/soluciones/1_declaracion_variables/8_interpolacion.md)
-* Null Safety: [[uso]](/1_declaracion_variables/9_null_safety.md) [[enunciados]](/1_declaracion_variables/1_enunciados/9_null_safety.md) [[mis soluciones]](/soluciones/1_declaracion_variables/9_null_safety.md)
-* Declaración de  variables sin tipo (Any, Any?, Unit): [[uso]](/1_declaracion_variables/10_any.md) [[enunciados]](/1_declaracion_variables/1_enunciados/10_any.md) [[mis soluciones]](/soluciones/1_declaracion_variables/10_any.md)
+[[enunciados]](/1_declaracion_variables/1_enunciados/1_declaracion_variables_val_var.md) [[mis soluciones]](/1_declaracion_variables/1Solucion_declaracion_variables/1_declaracion_variables_val_var.md)
+* Asignación de valores a variables: [[uso]](/1_declaracion_variables/2_asignacion_variables.md) [[enunciados]](/1_declaracion_variables/1_enunciados/1_declaracion_variables_val_var.md) [[mis soluciones]](/1_declaracion_variables/1Solucion_declaracion_variables/2_asignacion_variables.md)
+* Inicialización de variables: [[uso]](/1_declaracion_variables/3_inicializacion_variables.md) [[enunciados]](/1_declaracion_variables/1_enunciados/3_inicializacion_variables.md) [[mis soluciones]](/1_declaracion_variables/1Solucion_declaracion_variables/3_inicializacion_variables.md)
+* Tipos de datos (enteros, flotantes, booleanos, cadenas, etc.)[[uso]](/1_declaracion_variables/4_tipos_de_datos.md) [[enunciados]](/1_declaracion_variables/1_enunciados/4_tipos_de_datos.md) [[mis soluciones]](/1_declaracion_variables/1Solucion_declaracion_variables/4_tipos_de_datos.md)
+* Conversión de tipos de datos (toInt(), toDouble(), etc.): [[uso]](/1_declaracion_variables/5_conversion_tipos.md) [[enunciados]](/1_declaracion_variables/1_enunciados/5_conversion_tipos.md) [[mis soluciones]](/1_declaracion_variables/1Solucion_declaracion_variables/5_conversion_tipos.md)
+* Operadores: [[uso]](/1_declaracion_variables/6_operadores.md) [[enunciados]](/1_declaracion_variables/1_enunciados/6_operadores.md) [[mis soluciones]](/1_declaracion_variables/1Solucion_declaracion_variables/6_operadores.md)
+* Concatenación de cadenas (con "+" y con "$") [[uso]](/1_declaracion_variables/7_concatenacion.md) [[enunciados]](/1_declaracion_variables/1_enunciados/7_concatenacion.md) [[mis soluciones]](/1_declaracion_variables/1Solucion_declaracion_variables/7_concatenacion.md)
+* Interpolación de cadenas (con "\${ }" y con "$"): [[uso]](/1_declaracion_variables/8_interpolacion.md) [[enunciados]](/1_declaracion_variables/1_enunciados/8_interpolacion.md) [[mis soluciones]](/1_declaracion_variables/1Solucion_declaracion_variables/8_interpolacion.md)
+* Null Safety: [[uso]](/1_declaracion_variables/9_null_safety.md) [[enunciados]](/1_declaracion_variables/1_enunciados/9_null_safety.md) [[mis soluciones]](/1_declaracion_variables/1Solucion_declaracion_variables/9_null_safety.md)
+* Declaración de  variables sin tipo (Any, Any?, Unit): [[uso]](/1_declaracion_variables/10_any.md) [[enunciados]](/1_declaracion_variables/1_enunciados/10_any.md) [[mis soluciones]](/1_declaracion_variables/1Solucion_declaracion_variables/10_any.md)
 
 ### 2. Funciones
 
